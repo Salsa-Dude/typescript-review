@@ -1,3 +1,4 @@
+/* The key difference is: JavaScript uses "dynamic types" (resolved at runtime). TypeScript uses "static types" (set during development) */
 
 function add(n1: number, n2: number) {
   return n1 + n2;
